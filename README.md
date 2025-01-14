@@ -40,7 +40,7 @@
         <h2>🚀 Mockup do Projeto</h2>
         <div style="display: flex; gap: 20px; justify-content: center;">
             <img src="Mockup Portfolio.png" alt="Mockup do projeto" width="500" style="border-radius: 8px;">
-             <img src="Mockup Portfolio.png" alt="Mockup do projeto" width="500" style="border-radius: 8px;">
+             <img src="ZenBook Duo 14.png" alt="Mockup do projeto" width="500" style="border-radius: 8px;">
         </div>
     </section>
     <section>
